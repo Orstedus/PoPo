@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Aldrich');
+
+body {
+    background: linear-gradient(270deg, #ffb629 0, #ffa537 10%, #ff9243 20%, 
+    #ff7e4b 30%, #ff6951 40%, #f25353 50%, #d93f53 60%, #c22f54 70%, 
+    #ad2355 80%, #9b1b56 90%, #8c1859 100%);
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    overflow: auto;
+}
+
+p.pop{
+    font-family: "Aldrich", sans-serif;
+    font-size: 45px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    color: #ffffff;
+    font-weight: 400;
+    text-decoration: rgb(255, 255, 255);
+    font-style: normal;
+    font-variant: normal;
+    text-transform: uppercase;  
+    margin-bottom: 0px;
+}
+
+img.pop {
+    width: 350px;
+    height: 350px;
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+    margin-top: 5px ;
+    border: none;
+}
+
+div.main {
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    top: 30%;
+    left: 43%;
+    margin: -125px 0 0 -125px;
+    text-align: center;
+}
+
+p.score {
+    font-family: "Aldrich", sans-serif;
+    font-size: 45px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    color: #ffffff;
+    font-weight: 400;
+    text-decoration: rgb(255, 255, 255);
+    font-style: normal;
+    font-variant: normal;
+    text-transform: uppercase;
+    margin-top: 5px
+}
+
+div.baton {
+    margin-top: 50px;
+}
