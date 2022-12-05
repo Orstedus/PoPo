@@ -33,6 +33,7 @@ img.pop {
     margin: 0 auto;
     margin-top: 5px ;
     border: none;
+    cursor: pointer;
 }
 
 div.main {
